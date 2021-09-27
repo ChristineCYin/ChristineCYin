@@ -10,7 +10,7 @@
 - 💻 Also completed PostgreSQL Bootcamp Certificate and currently learning MySQL
 - 🥸 [My Portfolio](https://christinecyin.github.io/Portfolio/)
 - 🧐 [Tableau Dashboard for COVID-19 data exploration](https://public.tableau.com/app/profile/christine.yin/viz/Covid19DataExploration_16288198724040/Dashboard1#1)
-- 👯 I’m looking to collaborate on digital healthcare or medical device data project on Kaggle!
+- 👯 I’m looking to collaborate on digital healthcare or medical device data project
 - 📢 I'm bilingual in Mandarin
 - ⚡ Fun fact: I love hiking in National Parks 🥾 Just visited the gorgeous Glacier National Park ⛰ ❤
 
@@ -19,6 +19,9 @@
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands-1/512/189_Kaggle_logo_logos-512.png" />][kaggle]
+
+
 
 <br />
 
@@ -41,5 +44,6 @@
 [website]: https://christinecyin.github.io/Portfolio/
 [instagram]: https://www.instagram.com/lovehikingadventures/
 [linkedin]: https://www.linkedin.com/in/christinecyin/
+[kaggle]: https://www.kaggle.com/christine1cy
 
 
