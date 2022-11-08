@@ -4,8 +4,8 @@
 **ChristineCYin/ChristineCYin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-- 👩🏻‍💼 I’m currently working on career shift to data analytics
-- 🌱 I’m currently learning more Python for data science at SJCC Technest program
+- 👩🏻‍💼 I’m Data Analyst
+- 🌱 I’m currently learning more Python for data science
 - 🔣 Obtained Google Data Analytics Certificate
 - 💻 Also completed PostgreSQL Bootcamp Certificate and currently learning MySQL
 - 🥸 [My Portfolio](https://christinecyin.github.io/Portfolio/)
