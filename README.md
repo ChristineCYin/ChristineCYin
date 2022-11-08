@@ -27,15 +27,15 @@
 
 ### Languages and Tools:
 
-[<img align="left" alt="Microsoft Office" width="52px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Microsoft_Office_2013-2019_logo_and_wordmark.svg/200px-Microsoft_Office_2013-2019_logo_and_wordmark.svg.png" />](#)
-[<img align="left" alt="Microsoft Excel" width="26px" src="https://logodownload.org/wp-content/uploads/2020/04/excel-logo.png" />](#)
-[<img align="left" alt="Python" width="77px" src="https://www.python.org/static/community_logos/python-logo-master-v3-TM.png"/>](#)
-[<img align="left" alt="R" width="32px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/R_logo.svg/724px-R_logo.svg.png"/>](#)
+[<img align="left" alt="Python" width="95px" src="https://upload.wikimedia.org/wikipedia/commons/f/f8/Python_logo_and_wordmark.svg"/>](#)
+[<img align="left" alt="R" width="32px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/R_logo.svg/1024px-R_logo.svg.png"/>](#)
 [<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />](https://github.com/ChristineCYin/Covid-19-Data-Exploration/blob/main/covid%20portfolio%20project-PostgreSQL.sql)
+[<img align="left" alt="Looker" width="72px" src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Looker.svg" />](#)
+[<img align="left" alt="Snowflake" width="95px" src="https://upload.wikimedia.org/wikipedia/commons/f/ff/Snowflake_Logo.svg" />](#)
 [<img align="left" alt="tableau" width="95px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Tableau_Logo.png/800px-Tableau_Logo.png"/>](https://public.tableau.com/app/profile/christine.yin/viz/Covid19DataExploration_16288198724040/Dashboard1#1)
-[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />](https://github.com/ChristineCYin)
-
-
+[<img align="left" alt="Microsoft Excel" width="26px" src="https://logodownload.org/wp-content/uploads/2020/04/excel-logo.png" />](#)
+[<img align="left" alt="Microsoft Office" width="75px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Microsoft_Office_2013-2019_logo_and_wordmark.svg/200px-Microsoft_Office_2013-2019_logo_and_wordmark.svg.png" />](#)
+[<img align="left" alt="GitHub" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" />](https://github.com/ChristineCYin)
 
 <br />
 
