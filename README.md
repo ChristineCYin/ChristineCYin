@@ -5,12 +5,12 @@
 -->
 
 - 👩🏻‍💼 I’m a Data Analyst
-- 🪴 I’m currently learning more Python for data science
+- 🪴 I’m currently learning more Python for data engineering
 - 🥸 [My Portfolio](https://christinecyin.github.io/Portfolio/)
-- 🏆 Obtained Google Data Analytics Certificate
+- 🏆 Obtained [Google Data Analytics Certificate](https://www.credly.com/badges/d1beab91-7887-4e3a-b8b6-95bdf82011d0?source=linked_in_profile)
 - 👯 I’m looking to collaborate on digital healthcare or medical device data project
 - 🗣️ I'm bilingual in Mandarin
-- ⚡ Fun fact: I love hiking in National Parks 🥾 Just visited the gorgeous Glacier National Park ⛰ ❤
+- ⚡ Fun fact: I love hiking in National Parks 🥾 Just visited the gorgeous Banff National Park 🏔️❤️
 
 <!-- - 💻 Also completed PostgreSQL Bootcamp Certificate and currently learning MySQL -->
 <!-- - 🧐 [Tableau Dashboard for COVID-19 data exploration](https://public.tableau.com/app/profile/christine.yin/viz/Covid19DataExploration_16288198724040/Dashboard1#1) -->
