@@ -4,8 +4,8 @@
 **ChristineCYin/ChristineCYin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-- 👩🏻‍💼 I’m a Data Analyst
-- 🪴 I’m currently learning more Python for data engineering
+- 👩🏻‍💼 I’m a Data Data Engineer @ Apple
+- 🪴 I’m currently an MS Analytics Student @ Georgia Tech
 - 🥸 [My Portfolio](https://christinecyin.github.io/Portfolio/)
 - 🏆 Obtained [Google Data Analytics Certificate](https://www.credly.com/badges/d1beab91-7887-4e3a-b8b6-95bdf82011d0?source=linked_in_profile)
 - 👯 I’m looking to collaborate on digital healthcare or medical device data project
