@@ -19,7 +19,7 @@
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="codeSTACKr | Instagram" width="20px" src="https://cdn.icon-icons.com/icons2/2389/PNG/512/kaggle_logo_icon_145140.png" />][kaggle]
+[<img align="left" alt="codeSTACKr | Instagram" width="20px" src="" />][kaggle]
 
 
 
